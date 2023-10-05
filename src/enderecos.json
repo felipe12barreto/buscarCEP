@@ -1,0 +1,50 @@
+[
+  {
+    "cep": "01001-000",
+    "logradouro": "Praça da Sé",
+    "complemento": "lado ímpar",
+    "bairro": "Sé",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "ibge": "3550308",
+    "gia": "1004",
+    "ddd": "11",
+    "siafi": "7107"
+  },
+  {
+    "cep": "55578-000",
+    "logradouro": "",
+    "complemento": "",
+    "bairro": "",
+    "localidade": "Tamandaré",
+    "uf": "PE",
+    "ibge": "2614857",
+    "gia": "",
+    "ddd": "81",
+    "siafi": "0558"
+  },
+  {
+    "cep": "55570-000",
+    "logradouro": "",
+    "complemento": "",
+    "bairro": "",
+    "localidade": "Rio Formoso",
+    "uf": "PE",
+    "ibge": "2611903",
+    "gia": "",
+    "ddd": "81",
+    "siafi": "2537"
+  },
+  {
+    "cep": "47803-855",
+    "logradouro": "Rua da Fortuna",
+    "complemento": "",
+    "bairro": "Alphaville",
+    "localidade": "Barreiras",
+    "uf": "BA",
+    "ibge": "2903201",
+    "gia": "",
+    "ddd": "77",
+    "siafi": "3363"
+  }
+]
